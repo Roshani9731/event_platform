@@ -25,3 +25,5 @@ export const eventDefaultValues = {
   isFree: false,
   url: "",
 };
+console.log("server");
+console.log(typeof eventDefaultValues.startDateTime);
